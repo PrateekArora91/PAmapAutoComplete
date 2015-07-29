@@ -2,8 +2,7 @@
     //  HomeViewController.m
     //  dummyMapApp
     //
-    //  Created by Brillio Mac Mini 5 on 2/12/15.
-    //  Copyright (c) 2015 Brillio. All rights reserved.
+    //  Copyright (c) 2015 Prateek Arora All rights reserved.
     //
 
     #import "HomeViewController.h"

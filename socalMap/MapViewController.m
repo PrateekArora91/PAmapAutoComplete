@@ -2,8 +2,7 @@
 //  MapViewController.m
 //  socalMap
 //
-//  Created by Brillio Mac Mini 4 on 2/13/15.
-//  Copyright (c) 2015 com.brillio. All rights reserved.
+//  Copyright (c) 2015 Prateek Arora All rights reserved.
 //
 
 #import "MapViewController.h"
@@ -254,7 +253,7 @@
 
   
     NSString *geocode=@"geocode";
-    NSString *key=@"AIzaSyCFVoho8PC86L6eaLBbkl88cdLBZfbxLRA";
+    NSString *key=@"AIzaSyBImt8LcGzR-qnibiOhjvU_xebLiz9yCkY";
     
     
     NSHTTPURLResponse *response = nil;

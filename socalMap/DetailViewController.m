@@ -1,9 +1,8 @@
     //
     //  DetailViewController.m
-    //  socalMap
     //
     //  Created by matrix on 2/25/15.
-    //  Copyright (c) 2015 com.brillio. All rights reserved.
+    //  Copyright (c) 2015 Prateek Arora All rights reserved.
     //
 
     #import "DetailViewController.h"
